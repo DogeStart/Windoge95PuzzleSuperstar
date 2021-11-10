@@ -30,7 +30,7 @@ Begin VB.Form frmHelpAbout
       Width           =   1065
    End
    Begin VB.Label Label2 
-      Caption         =   "Twitter: @windoge95"
+      Caption         =   "Twitter: @windoge_95"
       Height          =   285
       Left            =   90
       TabIndex        =   1
